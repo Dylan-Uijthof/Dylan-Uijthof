@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-contributions.alexjonker.dev?user=Dylan-Uijthof&theme=dark&hide_border=true&background=EB545400" />
+    <img alt="stats" src="https://github-contributions.alexjonker.dev?user=Dylan-Uijthof&theme=light&hide_border=true" />
+</picture>
+
 <!--
 **Dylan-Uijthof/Dylan-Uijthof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
